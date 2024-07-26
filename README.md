@@ -22,7 +22,6 @@ Dynamic Depth is an innovative web project designed to elevate user interaction 
 
 ## Folder Structure
 
-- `src/`: Contains the source code of the project.
   - `index.html`: Main HTML file.
   - `style.css`: CSS files.
   - `script.js`: JavaScript files.
